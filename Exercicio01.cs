@@ -4,11 +4,11 @@ namespace INF099
     {
         static void Main(string[] args) {
 			// Comentário Novo
-            Console.WriteLine("Olá Alunos INF-099 !!!!");
-			Console.WriteLine("BOA NOITE");
-            Console.WriteLine("Alterações com VS Code");
+            Console.WriteLine("Olá !!!!");
+			Console.WriteLine("Boa tarde");
+            Console.WriteLine("Exercício em sala com VS Code");
             // Mais um comentário
-            //
+            // V1
         }
     }
 }
