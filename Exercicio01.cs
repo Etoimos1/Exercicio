@@ -9,6 +9,7 @@ namespace INF099
             Console.WriteLine("Exercício em sala com VS Code");
             // Mais um comentário
             // V1
+            // V2
         }
     }
 }
